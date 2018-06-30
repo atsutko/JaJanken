@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>286787939388-m95hj81gkcq8shj13hgicmmlhpm5e68b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.286787939388-m95hj81gkcq8shj13hgicmmlhpm5e68b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDBZS9WhumHCOHKbRWuq9S_WvK4RzlIu_s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>286787939388</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.TakaoAtsushi.TKJ</string>
+	<key>PROJECT_ID</key>
+	<string>tkjp-38f43</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tkjp-38f43.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:286787939388:ios:8f2c059097eb4d9e</string>
+	<key>DATABASE_URL</key>
+	<string>https://tkjp-38f43.firebaseio.com</string>
+</dict>
+</plist>
